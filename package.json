@@ -1,0 +1,28 @@
+{
+  "name": "blog-app",
+  "version": "1.0.0",
+  "description": "BLOG APPLICATION NODEJS MONGODB CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkanyasiryilmaz/nodejs-blog-app.git"
+  },
+  "keywords": [
+    "mongodb",
+    "nodejs",
+    "crud",
+    "blog"
+  ],
+  "author": "Volkan Yasir Yılmaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volkanyasiryilmaz/nodejs-blog-app/issues"
+  },
+  "homepage": "https://github.com/volkanyasiryilmaz/nodejs-blog-app#readme",
+  "devDependencies": {
+    "prettier": "3.0.0"
+  }
+}
